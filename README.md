@@ -1,2 +1,6 @@
-# sesync-abm
-repo for sesync abm shortcourse 2016
+# SESYNC Agent-Based Modelling Course
+
+Goals
+
+- Learn to build spatial ABMS
+- Develop workflow for sharing coding projects
